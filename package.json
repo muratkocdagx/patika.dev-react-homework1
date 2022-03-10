@@ -1,0 +1,15 @@
+{
+  "name": "resfullapiexample",
+  "version": "1.0.0",
+  "description": "restfullAPI example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Murat Kocdag",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
